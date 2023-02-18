@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1016041815771",
+    "project_id": "shop-10c9b",
+    "storage_bucket": "shop-10c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016041815771:android:b53228b69ffa970d4156fe",
+        "android_client_info": {
+          "package_name": "ru.netology.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016041815771-iplka9lgu3t428urkf12m9i1sqnpu8kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.netology.shop",
+            "certificate_hash": "a7b9d618bbfd6b24373fdb121c46a195a1d77bb3"
+          }
+        },
+        {
+          "client_id": "1016041815771-6pl20nhu92sm5i5ug9qmfceq2gm4k5ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUfQHVJ2RGCOL-pzKx13OMXulnfwNwxxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016041815771-6pl20nhu92sm5i5ug9qmfceq2gm4k5ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
